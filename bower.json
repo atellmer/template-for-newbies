@@ -7,5 +7,7 @@
   "main": "gulpfile.js",
   "license": "MIT",
   "homepage": "",
-  "dependencies": {}
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
 }
