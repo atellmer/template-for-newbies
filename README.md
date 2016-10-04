@@ -1,6 +1,4 @@
-# Simple Remple
-
-https://github.com/atellmer/template-for-newbies.git
+# Simple Temple Seed
 
 ```sh
 git clone https://github.com/atellmer/template-for-newbies.git templ
